@@ -1,3 +1,7 @@
+*{
+  color-scheme:dark;
+}
+
 /* Container geral */
 .container {
   margin: 20px auto;
